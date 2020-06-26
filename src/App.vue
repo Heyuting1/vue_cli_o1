@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <el-row>
+      <el-button>vscode集成方式提交</el-button>
       <el-button type="primary">主要按钮</el-button>
       <el-button type="success">成功按钮</el-button>
       <el-button type="info">信息按钮</el-button>
